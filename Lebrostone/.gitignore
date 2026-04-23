@@ -1,0 +1,4 @@
+backend/Archive.zip
+.env
+*-env.txt
+node_modules/

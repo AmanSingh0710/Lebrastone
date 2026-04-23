@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Private/auth/admin routes
+Disallow: /admin/
+Disallow: /login
+Disallow: /signup
+Disallow: /forgot-password
+Disallow: /change-mobile
+Disallow: /profile
+Disallow: /update-profile
+Disallow: /cart
+Disallow: /checkout
+Disallow: /support/
+
+Sitemap: https://lebrostone.com/sitemap.xml
